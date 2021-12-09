@@ -1,15 +1,15 @@
 package Tree;
 
 /**
- * Class AppleStrategy
- * Mengimplementasikan class AppleStrategy
- * Berisi tree Apple
+ * Class MangoStrategy
+ * Mengimplementasikan class TreeStrategy
+ * Berisi tree Mango
  */
-public class AppleStrategy implements TreeStrategy {
+public class MangoStrategy implements TreeStrategy{
     /**
      * Menset nama tree
      */
-    private String name = "Apple";
+    private String name = "Mango";
 
     @Override
     public void watch(boolean start) {
