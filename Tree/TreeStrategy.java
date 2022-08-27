@@ -4,6 +4,7 @@ package Tree;
  * Interface TreeStrategy
  * Memberikan opsi pilihan tree yang bisa ditonton
  * kepada para class yang ingin mengimplementasikannya.
+ * fork input manual song tooth crazy sunset engine anger thing knife kick
  */
 public interface TreeStrategy{
     /**
